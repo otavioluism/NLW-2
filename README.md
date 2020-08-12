@@ -13,7 +13,7 @@
 
 ## Sobre
 
-O <strong>Proffy</strong> é uma aplicação que busca ajudar as pessoas a encontrarem professores para darem aulas com o intuido de não ficarem isentos de estudos por meio dessa pandemia que estamos passando atualmente. No proffy você pode tanto se cadastrar como um professor como também entrar em contato com algum professor já cadastrado para ter aulas. A aplicação facilita a encontrar os professores pois nela encontra-se um filtro de busca para obter uma pesquisa eficiente e veloz.
+O <strong>Proffy</strong> é uma aplicação que busca ajudar as pessoas a encontrarem professores para lecionarem aulas, o intuito de criar foi pensando para que os alunos não ficassem isentos de estudos por meio do caos que estamos vivendo atualmente. Na aplicação o usuário pode tanto se cadastrar como um professor, como também entrar em contato com algum professor já cadastrado, para receber aulas. Nela você pode encontrar os professores com seu respectivo preço e horário de uma maneita fácil e rápida, pelo filtro de busca que foi incorporado.
 
 <a id="tecnologias-utilizadas"></a>
 
