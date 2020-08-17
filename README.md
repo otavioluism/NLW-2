@@ -1,6 +1,6 @@
 <h1 align="center">Proffy</h1>
 <h3 align="center">
-    <img alt="app" title="#app" width="800px" src="https://user-images.githubusercontent.com/43592310/84086554-88aad980-a9be-11ea-9f74-d393af146bd0.png">
+    <img alt="app" title="#app" width="800px" src="https://github.com/otavioluism/NLW-2/blob/master/proffy.png">
 </h3>
 <p align="center">Sua plataforma de estudos!</p> 
 
